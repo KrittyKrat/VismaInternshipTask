@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32002.185
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Meetings", "Meetings\Meetings.csproj", "{8DE5A595-CEE7-4AAF-A4C7-8D11856DC73A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest", "..\UnitTest\UnitTest\UnitTest.csproj", "{981BCBA1-84CB-472B-933F-2770A0177CEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DE5A595-CEE7-4AAF-A4C7-8D11856DC73A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DE5A595-CEE7-4AAF-A4C7-8D11856DC73A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DE5A595-CEE7-4AAF-A4C7-8D11856DC73A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DE5A595-CEE7-4AAF-A4C7-8D11856DC73A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{981BCBA1-84CB-472B-933F-2770A0177CEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{981BCBA1-84CB-472B-933F-2770A0177CEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{981BCBA1-84CB-472B-933F-2770A0177CEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{981BCBA1-84CB-472B-933F-2770A0177CEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B19D25AB-85C9-4197-A2E8-E5B38F1ECEDC}
+	EndGlobalSection
+EndGlobal

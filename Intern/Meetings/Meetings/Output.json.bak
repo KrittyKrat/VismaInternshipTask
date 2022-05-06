@@ -1,0 +1,68 @@
+[
+	{
+		"Name": "Cool meeting",
+		"ResponsiblePerson": "John",
+		"Description": "A lot of cool stuff will happen",
+		"Category": "Short",
+		"Type": "Live",
+		"StartDate": "2022-05-10T15:00:00",
+		"EndDate": "2022-05-10T15:30:00",
+		"People": [
+			"John"
+		]
+	},
+	{
+		"Name": "Show time",
+		"ResponsiblePerson": "Peter",
+		"Description": "Can i get uhhhhmmmm...",
+		"Category": "CodeMonkey",
+		"Type": "Live",
+		"StartDate": "2022-05-11T11:00:00",
+		"EndDate": "2022-05-11T16:30:00",
+		"People": [
+			"Peter",
+			"John",
+			"Loyd"
+		]
+	},
+	{
+		"Name": "EpicMeet",
+		"ResponsiblePerson": "John",
+		"Description": "Awesome description",
+		"Category": "Hub",
+		"Type": "InPerson",
+		"StartDate": "2022-05-08T12:30:00",
+		"EndDate": "2022-05-08T13:30:00",
+		"People": [
+			"John",
+			"Julie"
+		]
+	},
+	{
+		"Name": "This is a name",
+		"ResponsiblePerson": "John",
+		"Description": "123456",
+		"Category": "CodeMonkey",
+		"Type": "Live",
+		"StartDate": "2022-05-15T15:30:00",
+		"EndDate": "2022-05-15T16:30:00",
+		"People": [
+			"John",
+			"Peter",
+			"Lidna",
+			"Cole Jr."
+		]
+	},
+	{
+		"Name": "Meet for the boys",
+		"ResponsiblePerson": "Markus D",
+		"Description": "Awesome meet everybody will love",
+		"Category": "Hub",
+		"Type": "InPerson",
+		"StartDate": "2022-05-15T15:30:00",
+		"EndDate": "2022-05-15T15:30:00",
+		"People": [
+			"Markus D"
+		]
+	}
+]
